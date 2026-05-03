@@ -14,7 +14,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://ufound-gamma.vercel.app",
+        "APP_URL": "https://ufounds.vercel.app/",
         "APP_KEY": "base64:xIpP38DjhM7T7wGfPohqooZqpZ4rolyqew6lpqJohDA=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
